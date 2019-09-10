@@ -1,0 +1,92 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+#main {
+  background-color: #aab;
+  font-family: Abril FatfacGeorgiae, Georgia ;
+  padding-bottom: 10px;
+}
+.left-tab {
+  display: inline-block;
+  text-align: right;
+  width: 40%;
+  margin-left: 10%;
+}
+
+.right-tab {
+  margin-left: 50%;
+  text-align: left;
+}
+
+#survey {
+  text-align: center;
+  font-size: 45px;
+}
+
+#description {
+  text-align: center;
+  font-size: 25px;
+}
+
+#main-div {
+  background-color: #FFFFFF;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 25px;
+  border-radius: 15px;
+}
+
+#survey-form {
+  font-size: 25px;
+}
+
+#drop-down {
+  font-size: 25px;
+}
+
+#down-options {
+  font-size: 25px;
+}
+
+#name-label {
+  font-size: 25px;
+}
+
+#email-label {
+  font-size: 25px;
+}
+
+#number-label {
+  font-size: 25px;
+}
+
+#name {
+  font-size: 20px;
+  width: 280px;
+}
+
+#email {
+  font-size: 20px;
+  width: 280px;
+}
+
+#number {
+  font-size: 20px;
+  width: 280px;
+}
+
+#text-area {
+  font-size: 15px;
+  height: 50px;
+  width: 280px;
+}
+
+#submit {
+  width: 150px;
+  border: 0px solid;
+  border-radius: 9px;
+  height: 40px;
+  color: #FFFF99;
+  font-size: 19px;
+  background-color: #AEB0F5;
+  margin-left: 40%;
+  margin-bottom: 25px;
+}
